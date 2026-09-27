@@ -42,7 +42,9 @@ jobs:
             dist/snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#30363d,#6e7681,#b1bac4,#f0f6fc
 
       - name: Убрать полосу под змейкой
-        run: python3 scripts/snake-trim.py dist/*.svg
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist   # snk пишет из докера от root
+          python3 scripts/snake-trim.py dist/*.svg
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
