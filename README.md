@@ -60,5 +60,5 @@
 
 <p align="center">
   <a href="https://t.me/toomonn"><img src="https://img.shields.io/badge/Telegram%20%C2%B7%20@toomonn-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram: @toomonn"></a>
-  <a href="https://discord.com/users/736569773672103966"><img src="https://img.shields.io/badge/Discord%20%C2%B7%20tomon__one-000?style=flat-square&logo=discord&logoColor=fff" alt="Discord: tomon_one"></a>
+  <img src="https://img.shields.io/badge/Discord%20%C2%B7%20tomon__one-000?style=flat-square&logo=discord&logoColor=fff" alt="Discord: tomon_one">
 </p>
