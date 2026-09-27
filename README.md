@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81+%D0%BF%D0%B8%D1%88%D1%83+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BF%D0%BB%D0%B5%D0%B5%D1%80" alt="Привет, я Tomon one">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
@@ -13,24 +13,24 @@
 
 ---
 
-### Обо мне
+### About
 
-- Если чего-то не хватает под мои задачи или готовое решение меня не устраивает, я просто пишу это сам: так появились **cloudless**, **[byway](https://github.com/tomon-one/byway)** и **[«Когда пара?»](https://github.com/tomon-one/kogda-para)**
-- Учусь на системного администратора
-- ПК в основном для музыки и работы
-- Монохром, минимализм и когда всё настроено под себя до последнего пикселя
+- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **cloudless**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
+- Studying to be a system administrator
+- My PC is mostly for music and work
+- Monochrome, minimalism, and everything tuned to the last pixel
 
-### Рабочее место
+### Setup
 
 <p align="center">
-  <img src="assets/desktop.png" alt="Рабочий стол: Hyprland, панель календаря с погодой, текст песни, btop">
+  <img src="assets/desktop.png" alt="Desktop: Hyprland, calendar and weather panel, song lyrics, btop">
 </p>
 <p align="center">
-  <sub>Fedora 44 · Hyprland (конфиг на Lua) · своя оболочка на Quickshell · kitty + zsh<br>
-  Ryzen 5 5600 · RX 9060 XT · 1440p @ 200 Гц</sub>
+  <sub>Fedora 44 · Hyprland (Lua config) · custom Quickshell shell · kitty + zsh<br>
+  Ryzen 5 5600 · RX 9060 XT · 1440p @ 200 Hz</sub>
 </p>
 
-### Активность
+### Activity
 
 <p align="center">
   <picture>
@@ -52,7 +52,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomon-one/tomon-one/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/tomon-one/tomon-one/output/snake.svg" alt="змейка по графику коммитов">
+    <img src="https://raw.githubusercontent.com/tomon-one/tomon-one/output/snake.svg" alt="snake eating the contribution graph">
   </picture>
 </p>
 

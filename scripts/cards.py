@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Монохромные карточки для профиля: статистика, языки, активность за 30 дней.
+"""Монохромные карточки для профиля (подписи на английском): статистика, языки, активность за 30 дней.
 
 Запуск: GITHUB_TOKEN=… python3 scripts/cards.py <login> <папка>
 Рисует <name>-dark.svg и <name>-light.svg.
@@ -20,7 +20,7 @@ THEMES = {
     "light": dict(bg="#ffffff", border="#d1d9e0", fg="#1f2328", muted="#59636e", faint="#eff2f5"),
 }
 FONT = "font-family:'Segoe UI',Ubuntu,'Noto Sans',Helvetica,Arial,sans-serif"
-MONTHS = "янв фев мар апр мая июн июл авг сен окт ноя дек".split()
+MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 
 QUERY = """
 query($login: String!, $merged: String!) {
@@ -82,11 +82,8 @@ def streaks(days):
     return current, longest
 
 
-def plural(n, one, few, many):
-    n = abs(n) % 100
-    if 11 <= n <= 19:
-        return many
-    return {1: one, 2: few, 3: few, 4: few}.get(n % 10, many)
+def ndays(n):
+    return f"{n} day" if n == 1 else f"{n} days"
 
 
 def frame(t, w, h, title, inner):
@@ -104,12 +101,12 @@ def stats_card(t, d):
     stars = sum(r["stargazerCount"] for r in repos(d))
     count = len(repos(d))
     rows = [
-        ("Вкладов за год", cc["contributionCalendar"]["totalContributions"]),
-        ("Коммитов", cc["totalCommitContributions"] + cc["restrictedContributionsCount"]),
-        ("Принятых PR", d["prs"]["issueCount"]),
-        ("Звёзд", stars) if stars else ("Проектов", count),
-        ("Серия сейчас", f'{current} {plural(current, "день", "дня", "дней")}'),
-        ("Самая длинная", f'{longest} {plural(longest, "день", "дня", "дней")}'),
+        ("Contributions this year", cc["contributionCalendar"]["totalContributions"]),
+        ("Commits", cc["totalCommitContributions"] + cc["restrictedContributionsCount"]),
+        ("Merged PRs", d["prs"]["issueCount"]),
+        ("Stars", stars) if stars else ("Projects", count),
+        ("Current streak", ndays(current)),
+        ("Longest streak", ndays(longest)),
     ]
     inner = ""
     for i, (k, v) in enumerate(rows):
@@ -117,7 +114,7 @@ def stats_card(t, d):
         inner += (f'<text x="24" y="{y}" fill="{t["muted"]}" style="{FONT};font-size:14px">{k}</text>'
                   f'<text x="316" y="{y}" text-anchor="end" fill="{t["fg"]}" '
                   f'style="{FONT};font-size:14px;font-weight:600">{v}</text>')
-    return frame(t, 340, 70 + len(rows) * 24 - 4, "Статистика", inner)
+    return frame(t, 340, 70 + len(rows) * 24 - 4, "Stats", inner)
 
 
 def langs_card(t, d):
@@ -135,7 +132,7 @@ def langs_card(t, d):
                   f'<rect x="124" y="{y-9}" width="{max(140 * share, 8):.1f}" height="8" rx="4" fill="{t["fg"]}"/>'
                   f'<text x="316" y="{y}" text-anchor="end" fill="{t["fg"]}" '
                   f'style="{FONT};font-size:14px;font-weight:600">{100 * share:.0f}%</text>')
-    return frame(t, 340, 210, "Языки", inner)
+    return frame(t, 340, 210, "Languages", inner)
 
 
 def activity_card(t, d):
@@ -160,7 +157,7 @@ def activity_card(t, d):
     for i in range(0, len(days), 5):
         date = dt.date.fromisoformat(days[i]["date"])
         labels += (f'<text x="{pts[i][0]:.1f}" y="{H-12}" text-anchor="middle" fill="{t["muted"]}" '
-                   f'style="{FONT};font-size:11px">{date.day} {MONTHS[date.month-1]}</text>')
+                   f'style="{FONT};font-size:11px">{MONTHS[date.month-1]} {date.day}</text>')
     dots = "".join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="2.5" fill="{t["fg"]}"/>'
                    for (x, y), c in zip(pts, counts) if c)
     inner = (f'<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1">'
@@ -169,7 +166,7 @@ def activity_card(t, d):
              f'{grid}<polygon points="{area}" fill="url(#g)"/>'
              f'<polyline points="{line}" fill="none" stroke="{t["fg"]}" stroke-width="2" '
              f'stroke-linejoin="round"/>{dots}{labels}')
-    return frame(t, W, H, "Активность за 30 дней", inner)
+    return frame(t, W, H, "Activity, last 30 days", inner)
 
 
 def main():
