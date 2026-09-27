@@ -59,6 +59,7 @@
 <br>
 
 <p align="center">
+  <a href="https://t.me/dev_tomon"><img src="https://img.shields.io/badge/Channel%20%C2%B7%20%2Fdev%2Ftomon-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram channel: /dev/tomon"></a>
   <a href="https://t.me/toomonn"><img src="https://img.shields.io/badge/Telegram%20%C2%B7%20@toomonn-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram: @toomonn"></a>
   <img src="https://img.shields.io/badge/Discord%20%C2%B7%20tomon__one-000?style=flat-square&logo=discord&logoColor=fff" alt="Discord: tomon_one">
 </p>
