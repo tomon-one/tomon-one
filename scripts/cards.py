@@ -26,8 +26,8 @@ QUERY = """
 query($login: String!, $merged: String!) {
   user(login: $login) {
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100, privacy: PUBLIC) {
-      totalCount
       nodes {
+        name
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
@@ -46,6 +46,11 @@ query($login: String!, $merged: String!) {
   prs: search(query: $merged, type: ISSUE) { issueCount }
 }
 """
+
+
+def repos(d):
+    # репозиторий профиля (<login>/<login>) — не проект
+    return [r for r in d["user"]["repositories"]["nodes"] if r["name"].lower() != LOGIN.lower()]
 
 
 def fetch():
@@ -96,13 +101,13 @@ def stats_card(t, d):
     cc = u["contributionsCollection"]
     days = [x for w in cc["contributionCalendar"]["weeks"] for x in w["contributionDays"]]
     current, longest = streaks(days)
-    stars = sum(r["stargazerCount"] for r in u["repositories"]["nodes"])
-    repos = u["repositories"]["totalCount"]
+    stars = sum(r["stargazerCount"] for r in repos(d))
+    count = len(repos(d))
     rows = [
         ("Вкладов за год", cc["contributionCalendar"]["totalContributions"]),
         ("Коммитов", cc["totalCommitContributions"] + cc["restrictedContributionsCount"]),
         ("Принятых PR", d["prs"]["issueCount"]),
-        ("Звёзд", stars) if stars else ("Проектов", repos),
+        ("Звёзд", stars) if stars else ("Проектов", count),
         ("Серия сейчас", f'{current} {plural(current, "день", "дня", "дней")}'),
         ("Самая длинная", f'{longest} {plural(longest, "день", "дня", "дней")}'),
     ]
@@ -117,7 +122,7 @@ def stats_card(t, d):
 
 def langs_card(t, d):
     sizes = Counter()
-    for r in d["user"]["repositories"]["nodes"]:
+    for r in repos(d):
         for e in r["languages"]["edges"]:
             sizes[e["node"]["name"]] += e["size"]
     total = sum(sizes.values()) or 1
