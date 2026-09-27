@@ -56,7 +56,7 @@
   </picture>
 </p>
 
-### Связаться
+<br>
 
 <p align="center">
   <a href="https://t.me/toomonn"><img src="https://img.shields.io/badge/Telegram%20%C2%B7%20@toomonn-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram: @toomonn"></a>

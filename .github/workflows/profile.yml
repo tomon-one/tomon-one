@@ -32,12 +32,17 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v7
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=#1f2328&color_dots=#eff2f5,#d1d9e0,#9198a1,#59636e,#1f2328
             dist/snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#30363d,#6e7681,#b1bac4,#f0f6fc
+
+      - name: Убрать полосу под змейкой
+        run: python3 scripts/snake-trim.py dist/*.svg
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
