@@ -27,7 +27,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add cards
-          git diff --cached --quiet || { git commit -m "Обновить карточки"; git push; }
+          # main мог уйти вперёд (ручная правка во время прогона) — догоняем перед push
+          git diff --cached --quiet || { git commit -m "Обновить карточки"; git pull --rebase; git push; }
 
   snake:
     runs-on: ubuntu-latest
