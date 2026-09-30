@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Long+gone+before+daylight;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;New+sleeve%2C+same+stack;Long+gone+before+daylight;Chippin%27+in+on+open+source;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
