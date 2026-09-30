@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player" alt="Hi, I'm Tomon one">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Long+gone+before+daylight;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
@@ -19,6 +19,12 @@
 - Studying to be a system administrator
 - My PC is mostly for music and work
 - Monochrome, minimalism, and everything tuned to the last pixel
+
+### Now
+
+- **Cloudless**, my music player, is getting ready for release. Linux first, as a single AppImage, Windows a bit later
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.0 "Altai" is out: up to six more groups next to your own
+- Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
 
 ### Setup
 
