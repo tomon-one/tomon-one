@@ -22,8 +22,8 @@
 
 ### Now
 
-- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.1.0 "Baikal" is on the way. 1.0.0 "Altai" is out: up to six more groups next to your own
-- **[byway](https://github.com/tomon-one/byway)** 0.3.0 is coming, a big security and performance update
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.1.0 "Baikal" is out: a day the server could not read is marked instead of a general failure, and two classes with the same number show up as both
+- **[byway](https://github.com/tomon-one/byway)** 0.3.0 "Ford" is out, a big security and performance update: signed releases, keys parsed 10 times faster
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence)** is new: Discord shows what Claude Desktop is up to, with easter eggs instead of "Thinking"
 - **Cloudless**, my music player, keeps growing. Linux first, as a single AppImage, Windows a bit later
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
