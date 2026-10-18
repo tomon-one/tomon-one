@@ -15,7 +15,7 @@
 
 ### About
 
-- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **cloudless**, **Pereliv**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
+- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **[cloudless](https://github.com/tomon-one/cloudless)**, **Pereliv**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
 - Studying to be a system administrator
 - My PC is mostly for music and work
 - Monochrome, minimalism, and everything tuned to the last pixel
@@ -25,7 +25,7 @@
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.1 "Vitim" is out: 81 fixes, the room view shows which class is on right now, and notifications no longer arrive twice
 - **[byway](https://github.com/tomon-one/byway)** 0.3.0 "Ford" is out, a big security and performance update: signed releases, keys parsed 10 times faster
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence)** is new: Discord shows what Claude Desktop is up to, with easter eggs instead of "Thinking"
-- **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, Cloudless, is archived
+- **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
 
 ### Setup
