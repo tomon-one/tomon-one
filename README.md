@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;No+cloud%2C+just+the+Moon;New+sleeve%2C+same+stack;Long+gone+before+daylight;Chippin%27+in+on+open+source;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Tracks+flow+into+each+other;New+sleeve%2C+same+stack;Long+gone+before+daylight;Chippin%27+in+on+open+source;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 
 ### About
 
-- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **cloudless**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
+- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **cloudless**, **Pereliv**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
 - Studying to be a system administrator
 - My PC is mostly for music and work
 - Monochrome, minimalism, and everything tuned to the last pixel
 
 ### Now
 
-- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.1.0 "Baikal" is out: a day the server could not read is marked instead of a general failure, and two classes with the same number show up as both
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.1 "Vitim" is out: 81 fixes, the room view shows which class is on right now, and notifications no longer arrive twice
 - **[byway](https://github.com/tomon-one/byway)** 0.3.0 "Ford" is out, a big security and performance update: signed releases, keys parsed 10 times faster
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence)** is new: Discord shows what Claude Desktop is up to, with easter eggs instead of "Thinking"
-- **Cloudless**, my music player, keeps growing. Linux first, as a single AppImage, Windows a bit later
+- **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, Cloudless, is archived
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
 
 ### Setup
