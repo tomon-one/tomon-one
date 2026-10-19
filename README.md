@@ -6,7 +6,11 @@
   <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=fff">
   <img src="https://img.shields.io/badge/Dart%20%C2%B7%20Flutter-000?style=flat-square&logo=flutter&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff">
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=fff">
+  <img src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/Shell-000?style=flat-square&logo=gnubash&logoColor=fff">
+  <img src="https://img.shields.io/badge/ucode-000?style=flat-square&logo=openwrt&logoColor=fff">
   <img src="https://img.shields.io/badge/QML%20%C2%B7%20Lua-000?style=flat-square&logo=qt&logoColor=fff">
   <img src="https://img.shields.io/badge/OpenWrt-000?style=flat-square&logo=openwrt&logoColor=fff">
 </p>
@@ -23,7 +27,7 @@
 ### Now
 
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.1 "Vitim" is out: 81 fixes, the room view shows which class is on right now, and notifications no longer arrive twice
-- **[byway](https://github.com/tomon-one/byway)** 0.3.0 "Ford" is out, a big security and performance update: signed releases, keys parsed 10 times faster
+- **[byway](https://github.com/tomon-one/byway)** 0.4.0 is in a debugging audit, release within 2 weeks. Current stable is 0.3.0 "Ford": signed releases, keys parsed 10 times faster
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence)** is new: Discord shows what Claude Desktop is up to, with easter eggs instead of "Thinking"
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
@@ -31,7 +35,7 @@
 ### Setup
 
 <p align="center">
-  <img src="assets/desktop.png" alt="Desktop: Hyprland, calendar and weather panel, song lyrics, btop">
+  <img src="assets/desktop.webp" width="830" alt="Desktop: Hyprland, calendar and weather panel, song lyrics, btop">
 </p>
 <p align="center">
   <sub>Fedora 44 · Hyprland (Lua config) · custom Quickshell shell · kitty + zsh<br>
