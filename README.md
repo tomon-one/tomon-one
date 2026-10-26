@@ -27,8 +27,8 @@
 ### Now
 
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.1 "Vitim" is out: 81 fixes, the room view shows which class is on right now, and notifications no longer arrive twice
-- **[byway](https://github.com/tomon-one/byway)** 0.4.0 is in a debugging audit, release within 2 weeks. Current stable is 0.3.0 "Ford": signed releases, keys parsed 10 times faster
-- **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence)** is new: Discord shows what Claude Desktop is up to, with easter eggs instead of "Thinking"
+- **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
+- **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence/releases/tag/v0.2.0)** 0.2.0 "Afterlife": Discord shows what Claude Desktop is up to, with 181 easter eggs instead of "Thinking", 104 of them from Night City
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
 
