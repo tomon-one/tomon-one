@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Tracks+flow+into+each+other;New+sleeve%2C+same+stack;Long+gone+before+daylight;Good+morning%2C+Night+City;Chippin%27+in+on+open+source;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Tracks+flow+into+each+other;New+sleeve%2C+same+stack;Long+gone+before+daylight;Good+morning%2C+Night+City;Chippin%27+in+on+open+source;Netrunner+with+a+katana;You+can%27t+run+from+me;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
@@ -23,10 +23,11 @@
 - Studying to be a system administrator
 - My PC is mostly for music and work
 - Monochrome, minimalism, and everything tuned to the last pixel
+- Playing Cyberpunk 2077 again: a netrunner with a katana
 
 ### Now
 
-- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.1 "Vitim" is out: 81 fixes, the room view shows which class is on right now, and notifications no longer arrive twice
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.2 is in testing: a day strip under the date, a one-line day summary ("2 classes · until 12:10"), quiet hours 22–07 for change alerts with a single morning digest, and a new dark design in beta. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
 - **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence/releases/tag/v0.2.0)** 0.2.0 "Afterlife": Discord shows what Claude Desktop is up to, with 181 easter eggs instead of "Thinking", 104 of them from Night City
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
@@ -39,7 +40,7 @@
 </p>
 <p align="center">
   <sub>Fedora 44 · Hyprland (Lua config) · custom Quickshell shell · kitty + zsh<br>
-  Ryzen 5 5600 · RX 9060 XT · 1440p @ 200 Hz</sub>
+  Ryzen 5 5600 · RX 9060 XT · 16 GB (single channel, long story) · 1440p @ 200 Hz</sub>
 </p>
 
 ### Activity
