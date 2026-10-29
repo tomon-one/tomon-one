@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Tomon+one;Linux+%C2%B7+Android+%C2%B7+OpenWrt;Building+my+own+music+player;Tracks+flow+into+each+other;New+sleeve%2C+same+stack;Long+gone+before+daylight;Good+morning%2C+Night+City;Chippin%27+in+on+open+source;Netrunner+with+a+katana;You+can%27t+run+from+me;Writing+%2Fdev%2Ftomon" alt="Hi, I'm Tomon one">
+  <img src="assets/typing.svg" width="520" alt="Hi, I'm Tomon one">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=fff">
   <img src="https://img.shields.io/badge/Dart%20%C2%B7%20Flutter-000?style=flat-square&logo=flutter&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff">
-  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=fff">
-  <img src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus&logoColor=fff">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=fff">
+  <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=fff">
   <img src="https://img.shields.io/badge/Shell-000?style=flat-square&logo=gnubash&logoColor=fff">
   <img src="https://img.shields.io/badge/ucode-000?style=flat-square&logo=openwrt&logoColor=fff">
-  <img src="https://img.shields.io/badge/QML%20%C2%B7%20Lua-000?style=flat-square&logo=qt&logoColor=fff">
   <img src="https://img.shields.io/badge/OpenWrt-000?style=flat-square&logo=openwrt&logoColor=fff">
+  <br>
+  <img src="https://img.shields.io/badge/Rust-2b2b2b?style=flat-square&logo=rust&logoColor=aaa">
+  <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus&logoColor=aaa">
+  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=aaa">
+  <img src="https://img.shields.io/badge/QML%20%C2%B7%20Lua-2b2b2b?style=flat-square&logo=qt&logoColor=aaa">
+  <br><sub>main stack · also used</sub>
 </p>
 
 ---
