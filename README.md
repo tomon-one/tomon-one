@@ -29,7 +29,7 @@
 
 ### Now
 
-- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases)** 1.2.2 is in testing: a day strip under the date, a one-line day summary ("2 classes · until 12:10"), quiet hours 22–07 for change alerts with a single morning digest, and a new dark design in beta. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-%D0%92%D0%B8%D1%82%D0%B8%D0%BC.1.2.2)** 1.2.2 "Vitim" is out: nearly 80 changes in 12 days, a new schedule and widget design, a day strip for jumping around the week, a "Glass" theme in beta, and quiet hours 22–07 with a single morning digest. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
 - **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence/releases/tag/v0.2.0)** 0.2.0 "Afterlife": Discord shows what Claude Desktop is up to, with 181 easter eggs instead of "Thinking", 104 of them from Night City
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
