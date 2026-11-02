@@ -21,14 +21,15 @@
 
 ### About
 
-- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **[cloudless](https://github.com/tomon-one/cloudless)**, **Pereliv**, **[byway](https://github.com/tomon-one/byway)** and **[Kogda Para?](https://github.com/tomon-one/kogda-para)** came to be
+- When something I need is missing, or the existing tools don't suit me, I just write my own. That's how **[cloudless](https://github.com/tomon-one/cloudless)**, **Pereliv**, **[byway](https://github.com/tomon-one/byway)**, **[Kogda Para?](https://github.com/tomon-one/kogda-para)** and **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** came to be
 - Studying to be a system administrator
 - My PC is mostly for music and work
 - Monochrome, minimalism, and everything tuned to the last pixel
-- Playing Cyberpunk 2077 again: a netrunner with a katana
+- Playing Cyberpunk 2077 again, over 15 runs in: a netrunner with a katana, and now modding it too
 
 ### Now
 
+- **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** 1.0.0 is out, my first Cyberpunk 2077 mod: it labels your next perk and attribute right in the game menus, and you can plan a whole build on the perk screen without spending a point
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-%D0%92%D0%B8%D1%82%D0%B8%D0%BC.1.2.2)** 1.2.2 "Vitim" is out: nearly 80 changes in 12 days, a new schedule and widget design, a day strip for jumping around the week, a "Glass" theme in beta, and quiet hours 22–07 with a single morning digest. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
 - **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence/releases/tag/v0.2.0)** 0.2.0 "Afterlife": Discord shows what Claude Desktop is up to, with 181 easter eggs instead of "Thinking", 104 of them from Night City
@@ -76,6 +77,7 @@
 <p align="center">
   <a href="https://t.me/dev_tomon"><img src="https://img.shields.io/badge/Channel%20%C2%B7%20%2Fdev%2Ftomon-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram channel: /dev/tomon"></a>
   <a href="https://t.me/toomonn"><img src="https://img.shields.io/badge/Telegram%20%C2%B7%20@toomonn-000?style=flat-square&logo=telegram&logoColor=fff" alt="Telegram: @toomonn"></a>
+  <a href="https://www.nexusmods.com/profile/Tomon0"><img src="https://img.shields.io/badge/Nexus%20Mods%20%C2%B7%20Tomon0-000?style=flat-square" alt="Nexus Mods: Tomon0"></a>
   <img src="https://img.shields.io/badge/Discord%20%C2%B7%20tomon__one-000?style=flat-square&logo=discord&logoColor=fff" alt="Discord: tomon_one">
 </p>
 
