@@ -29,7 +29,8 @@
 
 ### Now
 
-- **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** 1.0.0 is out, my first Cyberpunk 2077 mod: it labels your next perk and attribute right in the game menus, and you can plan a whole build on the perk screen without spending a point
+- **[Radioport Hack](https://www.nexusmods.com/cyberpunk2077/mods/37625)** 1.0.0 is out: an ultimate quickhack that plays PonPon Shit right in the target's ears, then burns out their port. It started as a TikTok meme
+- **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** 1.1.0 is out: seven builds by MagnitOla and four official builds for the Edgerunners 2 crew. My first Cyberpunk 2077 mod, it labels your next perk right in the game menus
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-%D0%92%D0%B8%D1%82%D0%B8%D0%BC.1.2.2)** 1.2.2 "Vitim" is out: nearly 80 changes in 12 days, a new schedule and widget design, a day strip for jumping around the week, a "Glass" theme in beta, and quiet hours 22–07 with a single morning digest. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
 - **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **[claude-desktop-presence](https://github.com/tomon-one/claude-desktop-presence/releases/tag/v0.2.0)** 0.2.0 "Afterlife": Discord shows what Claude Desktop is up to, with 181 easter eggs instead of "Thinking", 104 of them from Night City
