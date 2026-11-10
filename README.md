@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.svg" width="520" alt="Hi, I'm Tomon one">
+  <img src="assets/typing.svg" width="520" alt="Hi, I'm Tomon one. Linux · Android · OpenWrt. Building my own music player. Tracks flow into each other. New sleeve, same stack. Long gone before daylight. Good morning, Night City. Chippin' in on open source. Netrunner with a katana. You can't run from me. Writing /dev/tomon">
 </p>
 
 <p align="center">
