@@ -31,7 +31,7 @@
 ### Now
 
 - **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-%D0%92%D0%B8%D1%82%D0%B8%D0%BC.1.2.2)** 1.2.2 "Vitim" is out: nearly 80 changes in 12 days, a new schedule and widget design, a day strip for jumping around the week, a "Glass" theme in beta, and quiet hours 22–07 with a single morning digest. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
-- **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.0)** 0.4.0 "Ice Road" is out: rewritten in ucode, over a hundred fixes, and home DNS no longer goes dark if byway fails to start
+- **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.1)** 0.4.1 "Ice Road" is out: the tested Xray-core moves to 26.11.9 (MPTCP closed), plus two fixes for swapping the core on routers with little flash. 0.4.0 rewrote it in ucode with over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
 - Two Cyberpunk 2077 mods: **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** 1.1.0 labels your next perk in the game menus, and **[Radioport Hack](https://www.nexusmods.com/cyberpunk2077/mods/37625)** 1.1.0 plays PonPon Shit right in the target's ears, then burns out their port
 - Writing about all of it in **[/dev/tomon](https://t.me/dev_tomon)** (in Russian)
