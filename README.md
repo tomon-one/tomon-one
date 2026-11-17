@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.svg" width="520" alt="Hi, I'm Tomon one. Linux · Android · OpenWrt. Building my own music player. Tracks flow into each other. New sleeve, same stack. Long gone before daylight. Good morning, Night City. Chippin' in on open source. Netrunner with a katana. You can't run from me. Writing /dev/tomon">
+  <img src="assets/typing.svg" width="520" alt="Hi, I'm Tomon one. Linux · Android · OpenWrt. Building my own music player. Tracks flow into each other. New sleeve, same stack. Long gone before daylight. Good morning, Night City. Another day in paradise, right? Chippin' in on open source. Netrunner with a katana. You can't run from me. A professional adapts. Only smart moves from here. Writing /dev/tomon">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ### Now
 
-- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-%D0%92%D0%B8%D1%82%D0%B8%D0%BC.1.2.3)** 1.2.3 "Vitim" is out: an "Exams" tab that says when the exams come, swiping the day strip to the next week, search that ignores the keyboard layout, and a site that now looks like the app. Dozens of fixes. News at [t.me/kogda_para_news](https://t.me/kogda_para_news)
+- **[Kogda Para?](https://github.com/tomon-one/kogda-para/releases/tag/r-Vice.1.2.4)** 1.2.4 "Vice" is out: a temporary theme in sunset colors, violet through peach, on the app screens and the site. It turns on in the settings and lasts until January 1, 2027, then goes away by itself.
 - **[byway](https://github.com/tomon-one/byway/releases/tag/v0.4.1)** 0.4.1 "Ice Road" is out: the tested Xray-core moves to 26.11.9 (MPTCP closed), plus two fixes for swapping the core on routers with little flash. 0.4.0 rewrote it in ucode with over a hundred fixes, and home DNS no longer goes dark if byway fails to start
 - **Pereliv**, my new music player for Linux and Android, is in early development: it blends tracks at the join and keeps them at the same loudness. Its predecessor, [Cloudless](https://github.com/tomon-one/cloudless), is archived
 - Two Cyberpunk 2077 mods: **[Build Shard](https://www.nexusmods.com/cyberpunk2077/mods/36822)** 1.1.0 labels your next perk in the game menus, and **[Radioport Hack](https://www.nexusmods.com/cyberpunk2077/mods/37625)** 1.1.0 plays PonPon Shit right in the target's ears, then burns out their port
